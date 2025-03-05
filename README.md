@@ -7,24 +7,19 @@ Welcome to Quadletarium – a collection of Podman Quadlet files and scripts des
 Quadletarium is an open-source collection of Quadlet unit files that simplifies container deployment with Podman on your self-hosted server. Instead of manually managing containers, you use Systemd units to start, manage, and update services automatically.
 
 ## 🏠 Features
+### 📦 Included Quadlet Units
 
-- Simple container orchestration with Podman Quadlet
-- Automatic management via Systemd
-- Optimized for small self-hosting with useful containers & services
+-- List to follow
 
-## 📦 Included Quadlet Units
+### 🛠 Assisting Scripts 
 
-make a variant an PR
 
 ## 📢 Contribute
 Missing a container for a service? Your Setup not included? But you think it should be? 
 PRs and issues are welcome! 🚀
 Send your Containers and setups. 
 
-
-
 Happy self-hosting with Podman & Quadlets! 💙
-
 
 
 # Community & Resources
