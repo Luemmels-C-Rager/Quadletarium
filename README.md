@@ -1,10 +1,12 @@
-# Quadletarium
+# Quadletarium - The Quadletcollection for Podman
 
-Welcome to Quadletarium – a collection of Podman Quadlet files and scripts designed for an efficient self-hosting environment! 🚀
+Welcome to Quadletarium – a collection of container files and scripts designed for an efficient self-hosting environment! 🚀
 
 ## 🌟 What is Quadletarium?
 
-Quadletarium is an open-source collection of Quadlet unit files that simplifies container deployment with Podman on your self-hosted server. Instead of manually managing containers, you use Systemd units to start, manage, and update services automatically.
+Quadletarium is an open-source collection of Quadlet unit files that simplifies container deployment with Podman on your self-hosted server. 
+Instead of manually managing containers, you use Systemd units to start, manage, and update services automatically.
+
 
 ## 🏠 Features
 ### 📦 Included Quadlet Units
@@ -23,6 +25,9 @@ Happy self-hosting with Podman & Quadlets! 💙
 
 
 # Community & Resources
+Wherever possible and suggested - Linking all the Ressources and inspirations.
+
+
 ## 🚀 Installation & Usage
 Not the Topic to be covered again.
 Start here: 
@@ -35,4 +40,8 @@ r/podman – Discussions, tips, and troubleshooting
 Podman GitHub – Official Podman repository
 Quadlet Documentation – Learn how Quadlets work
 Other great self-hosting projects on GitHub (e.g., Awesome-Selfhosted)
+
+## Ressources relevant to this project
+https://github.com/eriksjolund/podman-traefik-socket-activation
+
 
