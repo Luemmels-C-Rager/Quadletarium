@@ -1,2 +1,43 @@
-# Little-Podman-Container-Factory
-Repo Share the .containers and Pods and learn a thing or two
+# Quadletarium
+
+Welcome to Quadletarium – a collection of Podman Quadlet files and scripts designed for an efficient self-hosting environment! 🚀
+
+## 🌟 What is Quadletarium?
+
+Quadletarium is an open-source collection of Quadlet unit files that simplifies container deployment with Podman on your self-hosted server. Instead of manually managing containers, you use Systemd units to start, manage, and update services automatically.
+
+## 🏠 Features
+
+- Simple container orchestration with Podman Quadlet
+- Automatic management via Systemd
+- Optimized for small self-hosting with useful containers & services
+
+## 📦 Included Quadlet Units
+
+make a variant an PR
+
+## 📢 Contribute
+Missing a container for a service? Your Setup not included? But you think it should be? 
+PRs and issues are welcome! 🚀
+Send your Containers and setups. 
+
+
+
+Happy self-hosting with Podman & Quadlets! 💙
+
+
+
+# Community & Resources
+## 🚀 Installation & Usage
+Not the Topic to be covered again.
+Start here: 
+https://github.com/containers/podman/blob/main/docs/tutorials/rootless_tutorial.md
+https://blog.nerdon.eu/podman-quadlet-getting-started/
+
+Want to learn more about Podman & Quadlets? Check out these communities and repositories:
+
+r/podman – Discussions, tips, and troubleshooting
+Podman GitHub – Official Podman repository
+Quadlet Documentation – Learn how Quadlets work
+Other great self-hosting projects on GitHub (e.g., Awesome-Selfhosted)
+
